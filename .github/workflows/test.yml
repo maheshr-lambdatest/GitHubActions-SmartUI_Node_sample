@@ -1,5 +1,9 @@
 name: Execute SmartUI Test with Github App Integration
+<<<<<<< HEAD
 on:
+=======
+on: 
+>>>>>>> 33f876247f72ebc466d51cd46796458ad5f04e1e
   push:
   pull_request:
 jobs:
