@@ -34,7 +34,7 @@ async function searchTextOnGoogle() {
     "accessKey": KEY,
     name: "sample name 1", // name of the test
     build: platform + browserName + version, // name of the build
-    'smartUI.project': "smartuigitrepo",
+    'smartUI.project': "smartuigitreo",
     // will generate random smartUI build if not specified
     // "smartUI.build": "first", 
     "smartUI.options": {
