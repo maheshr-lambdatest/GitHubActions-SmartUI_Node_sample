@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 10
 
       - name: Install Node.js dependencies
-        run: npm install
+        run: hooks/npm install
 
       - name: Run test.js
         run: node hooks/examples/test.js
