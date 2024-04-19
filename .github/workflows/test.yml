@@ -34,5 +34,8 @@ jobs:
           echo "GITHUB_URL: $GITHUB_URL"
           echo "GITHUB_URL=$GITHUB_URL" >> $GITHUB_ENV
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Run test.js
         run: node hooks/examples/test.js

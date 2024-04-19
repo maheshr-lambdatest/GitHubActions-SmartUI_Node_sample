@@ -3,8 +3,7 @@
     "minimatch": "^3.0.5",
     "moment": "^2.29.4",
     "scroll-to-bottomjs": "^1.1.0",
-    "playwright": "^1.35.1",
-    "selenium-webdriver": "^4.16.0"
+    "selenium-webdriver": "^3.6.0"
   },
   "name": "nodejs-selenium-sample",
   "description": "![LambdaTest Logo](https://www.lambdatest.com/images/logo.svg)",
