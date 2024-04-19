@@ -35,4 +35,4 @@ jobs:
           echo "GITHUB_URL=$GITHUB_URL" >> $GITHUB_ENV
 
       - name: Run test.js
-        run: node /c/Users/maheshr/IdeaProjects/smartui-node-sample/hooks/test.js
+        run: node examples\test.js

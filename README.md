@@ -97,7 +97,7 @@ await driver.executeScript("smartui.takeScreenshot", config);
 ```
 - Run the script
 ```
-node .examples\test.js
+node examples\test.js
 ```
 
 
