@@ -32,7 +32,7 @@ async function searchTextOnGoogle() {
     visual: true,
     "user": USERNAME,
     "accessKey": KEY,
-    name: "test session", // name of the test
+    name: "sample test", // name of the test
     build: platform + browserName + version, // name of the build
     'smartUI.project': "smartuigithub",
     // will generate random smartUI build if not specified
