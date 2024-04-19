@@ -1,5 +1,6 @@
     name: Execute SmartUI Test with Github App Integration
     runs-on: ubuntu-latest
+    on: [push]
     steps:
     - uses: actions/checkout@v1
       with:
